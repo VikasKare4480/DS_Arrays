@@ -1,5 +1,5 @@
-package DS_Arrays.Medium;
+~
 
-public class -1 {
+public class _1 {
     
 }
