@@ -15,13 +15,16 @@ class _6_elementsInRange {
         }    
       }
 
-      for(boolean present : inRange) {
+     for(int i = 0; i < inRange.length; i++) {
 
-            if(!present) {
+        boolean present = inRange[i];
+       
 
-                return false;
-            }
-      }
+        if(present == false) {
+
+            return false;
+        }
+     }
         return true;
     }
 
