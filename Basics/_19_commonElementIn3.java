@@ -39,6 +39,7 @@ public class _19_commonElementIn3 {
     }
 
     public static void main(String[] args) throws IOException {
+        
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         System.out.print("Enter Size of first Array : ");
