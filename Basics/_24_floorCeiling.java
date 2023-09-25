@@ -1,15 +1,12 @@
 import java.io.*;
 import java.util.*;
 
-
 public class _24_floorCeiling {
 
     static void floorCeiling(int[] arr, int x) {
 
         int floor = Integer.MIN_VALUE;
         int ceiling = Integer.MAX_VALUE;
-
-
 
         for(int num : arr) {
 
