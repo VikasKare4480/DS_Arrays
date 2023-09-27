@@ -5,8 +5,7 @@ class _25_maxproductOfTwoNumbers{
 
     static int maxProduct(int[] arr) {
 
-        int maxProduct = Integer.MIN_VALUE;
-
+        // int maxProduct = Integer.MIN_VALUE;
         int max = Integer.MIN_VALUE;
         int secmax = Integer.MIN_VALUE;
 
