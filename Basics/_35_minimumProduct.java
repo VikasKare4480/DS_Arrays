@@ -26,8 +26,7 @@ public class _35_minimumProduct {
         for(int i = 0; i < arr.length; i++) {
 
             System.out.print("Enter " + (i + 1) + " element : ");
-            arr[i] = sc.nextInt();
-            
+            arr[i] = sc.nextInt();  
         }
 
         System.out.print("Enter k : ");
